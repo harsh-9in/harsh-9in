@@ -7,16 +7,16 @@
 
 
 
-<a href="https://www.linkedin.com/in/harsh-kumar-1a287617a/">
+<a href="https://www.linkedin.com/in/harsh-kumar-1a287617a/" target="_blank">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://twitter.com/harsh_9in">
+<a href="https://twitter.com/harsh_9in" target="_blank">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="mailto:harshkumar9.in@gmail.com">
+<a href="mailto:harshkumar9.in@gmail.com" target="_blank">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://medium.com/@harsh_9in">
+<a href="https://harsh-9in.medium.com/" target="_blank">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <br>
